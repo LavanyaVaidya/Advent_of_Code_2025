@@ -2,7 +2,7 @@
 
 This repository contains my solutions for **Advent of Code 2025**.
 
-Advent of Code 2025 was a lot of fun — even though the last few days were *crazy*. Some problems pushed me hard enough that I ended up scrolling through the internet, reading other people’s solutions, and revisiting concepts multiple times. 😅
+Advent of Code 2025 was a lot of fun, even though the last few days were *crazy hard* for me. Pushed me hard enough that I ended up scrolling through the internet, reading other people’s solutions, and revisiting concepts multiple times. 😅
 
 ---
 
